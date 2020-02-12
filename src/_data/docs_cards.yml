@@ -1,13 +1,13 @@
-- name: Language samples
+- name: Примеры языка Dart
   description: A brief, example-based introduction to the Dart language.
   url: /samples
-- name: Language tour
-  description: A more thorough (yet still example-based) introduction to the Dart language.
+- name: Тур по языку Dart
+  description: Более полное (но все еще основанное на примерах) введение в язык Dart.
   url: /guides/language/language-tour
-- name: Effective Dart
-  description: Best practices for building consistent, maintainable, efficient Dart code.
+- name: Эффективный Dart
+  description: Лучшие практики для создания согласованного, обслуживаемого и эффективного кода Dart.
   url: /guides/language/effective-dart
-- name: Library tour
+- name: Тур по Библиотекам
   description: An example-based introduction to the major features in the Dart SDK's core libraries.
   url: /guides/libraries/library-tour
 - name: Dart SDK
