@@ -6,7 +6,7 @@ description: Pub, a package management tool for Dart, supports a variety of comm
 The `pub` tool has commands for managing packages
 and for deploying packages and command-line apps.
 For general information about using the pub package manager, see
-[How to use packages](/guides/packages).
+[как использовать пакеты](/guides/packages).
 
 {% include flutter-packages.md %}
 

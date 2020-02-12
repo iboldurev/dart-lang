@@ -1,10 +1,10 @@
 ---
-title: Dart language specification
-short-title: Language specification
-description: The formal specification for the Dart language.
+title: Спецификация языка Dart
+short-title: Спецификация языка
+description: Формальная спецификация для языка Dart.
 ---
 
-Use this page to find the formal Dart language specification.
+Используйте эту страницу, чтобы найти формальную спецификацию языка Dart.
 For a gentler introduction to Dart, see the
 [language tour](/guides/language/language-tour).
 

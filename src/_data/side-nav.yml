@@ -24,10 +24,10 @@
 - title: Язык Dart
   expanded: false
   children:
-    - title: Effective Dart
+    - title: Эффективный Dart
       expanded: false
       children:
-        - title: Overview
+        - title: Обзор
           urlExactMatch: true
           match-page-url-exactly: true
           permalink: /guides/language/effective-dart
@@ -51,13 +51,13 @@
 - title: Основные библиотеки
   expanded: false
   children:
-    - title: Overview
+    - title: Обзор
       urlExactMatch: true
       match-page-url-exactly: true
       permalink: /guides/libraries
     - title: Tour
       permalink: /guides/libraries/library-tour
-    - title: Articles
+    - title: Записи
       children:
         - title: Intro to dart:io
           permalink: /articles/libraries/dart-io
@@ -67,13 +67,13 @@
 - title: Пакеты
   expanded: false
   children:
-    - title: How to use packages
+    - title: Как использовать пакеты
       permalink: /guides/packages
     - title: Commonly used packages
       permalink: /guides/libraries/useful-libraries
-    - title: Creating packages
+    - title: Создание пакетов
       permalink: /guides/libraries/create-library-packages
-    - title: Publishing packages
+    - title: Публикация пакетов
       permalink: /tools/pub/publishing
     - title: Package reference
       expanded: false
@@ -114,7 +114,7 @@
       permalink: /mobile
     - title: Command-line & server apps
       children:
-        - title: Overview
+        - title: Обзор
           urlExactMatch: true
           match-page-url-exactly: true
           permalink: /server
@@ -128,7 +128,7 @@
           permalink: /server/libraries
     - title: Web apps
       children:
-        - title: Overview
+        - title: Обзор
           urlExactMatch: true
           match-page-url-exactly: true
           permalink: /web
@@ -152,11 +152,11 @@
 - title: Инструменты и методы
   expanded: false
   children:
-    - title: Overview
+    - title: Обзор
       urlExactMatch: true
       match-page-url-exactly: true
       permalink: /tools
-    - title: Editors & debuggers
+    - title: Редакторы & отладчики
       children:
         - title: IntelliJ & Android Studio
           permalink: /tools/jetbrains-plugin
@@ -171,7 +171,7 @@
         - title: Dart SDK
           expanded: true
           children:
-            - title: Overview
+            - title: Обзор
               permalink: /tools/sdk
             - title: dart (Dart VM)
               permalink: /tools/dart-vm
@@ -198,9 +198,9 @@
               permalink: /tools/build_runner
             - title: webdev
               permalink: /tools/webdev
-    - title: Managing source code
+    - title: Управление исходным кодом
       children:
-        - title: Formatting code
+        - title: Форматирование кода
           permalink: /guides/language/formatting
         - title: What not to commit
           permalink: /guides/libraries/private-files
@@ -210,9 +210,9 @@
           permalink: /guides/language/analysis-options
         - title: Fixing common type problems
           permalink: /guides/language/sound-problems
-    - title: Testing & optimization
+    - title: Тестирование & оптимизация
       children:
-        - title: Testing
+        - title: Тестирование
           permalink: /guides/testing
         - title: Debugging web apps
           permalink: /web/debugging
@@ -220,19 +220,19 @@
 - title: Ресурсы
   expanded: false
   children:
-    - title: Overview
+    - title: Обзор
       urlExactMatch: true
       match-page-url-exactly: true
       permalink: /resources
-    - title: Books
+    - title: Книги
       permalink: /resources/books
     - title: DartPad in tutorials&#58; best practices
       permalink: /resources/dartpad-best-practices
-    - title: Code of conduct
+    - title: Правила поведения
       permalink: /code-of-conduct
     - title: FAQ
       permalink: /faq
-    - title: History
+    - title: История
       children:
         - title: Migrating to Dart&nbsp;2
           urlExactMatch: true
@@ -242,7 +242,7 @@
           permalink: /web/dart-2
         - title: Obsolete pub features
           permalink: /tools/pub/obsolete
-    - title: Videos
+    - title: Видео
       permalink: /resources/videos
 
 - title: Связанные сайты

@@ -170,10 +170,10 @@ For general information about verified publishers,
 see the [verified publishers page][].
 For details on creating a verified publisher
 and transferring packages to it,
-see the documentation for [publishing packages][].
+see the documentation for [публикация пакетов][].
 
 [verified publishers page]: /tools/pub/verified-publishers
-[publishing packages]: /tools/pub/publishing#verified-publisher
+[публикация пакетов]: /tools/pub/publishing#verified-publisher
 
 ## Version constraint
 

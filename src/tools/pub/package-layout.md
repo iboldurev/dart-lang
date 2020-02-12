@@ -211,7 +211,7 @@ Also, avoid imports of <code>package:<em>package_name</em>/src/...</code>.
 </aside>
 
 For more information on library packages, see
-[Creating packages](/guides/libraries/create-library-packages).
+[создание пакетов](/guides/libraries/create-library-packages).
 
 ### Public tools {#public-tools}
 

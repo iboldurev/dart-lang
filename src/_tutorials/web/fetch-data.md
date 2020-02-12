@@ -581,7 +581,7 @@ void processResponse(String jsonString) {
 
 ## Other resources
 
-* [Using JSON](/guides/json)
+* [Использование JSON](/guides/json)
 * [Asynchronous programming: futures, async, await](/codelabs/async-await)
 
 [dart:convert]: {{site.dart_api}}/{{site.data.pkg-vers.SDK.channel}}/dart-convert/dart-convert-library.html
