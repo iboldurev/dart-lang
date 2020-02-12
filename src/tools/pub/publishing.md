@@ -1,5 +1,5 @@
 ---
-title: Publishing packages
+title: Публикация пакетов
 description: Learn how to publish a Dart package to pub.dev.
 ---
 

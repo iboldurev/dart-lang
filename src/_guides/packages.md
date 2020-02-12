@@ -1,6 +1,6 @@
 ---
-title: How to use packages
-short-title: Packages
+title: Как использовать пакеты
+short-title: Пакеты
 description: Learn more about pub, Dart's tool for managing packages.
 ---
 
@@ -15,7 +15,7 @@ helping you get package versions that work with each other and
 with your SDK version.
 
 Most [Dart-savvy IDEs][] offer support for using pub that
-includes creating, downloading, updating, and publishing packages.
+includes creating, downloading, updating, and публикация пакетов.
 Or you can use [`pub` on the command line](/tools/pub/cmd).
 
 At a minimum,
@@ -187,8 +187,8 @@ the pub package manager.
 
 ### How to
 
-* [Creating packages](/guides/libraries/create-library-packages)
-* [Publishing packages](/tools/pub/publishing)
+* [Создание пакетов](/guides/libraries/create-library-packages)
+* [Публикация пакетов](/tools/pub/publishing)
 
 ### Reference
 

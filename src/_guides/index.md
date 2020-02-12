@@ -1,14 +1,14 @@
 ---
-title: Dart documentation
-description: Learn to use the Dart language and libraries.
+title: Документация
+description: Научитесь использовать язык Dart и библиотеки.
 toc: false
 ---
 
-Welcome to the Dart documentation!
-Here are some of the most visited pages:
+Добро пожаловать в документацию Dart!
+Вот некоторые из самых посещаемых страниц:
 
 {% comment %}
-To update these cards, edit src/_data/docs_cards.yml.
+To update these cards, edit src/\_data/docs_cards.yml.
 {% endcomment %}
 
 <div class="card-grid">
@@ -56,9 +56,9 @@ here are some next steps.
 
 You may also find these docs useful:
 
-* [Using packages](/docs/development/packages-and-plugins/using-packages)
-* [Adding assets and images](/docs/development/ui/assets-and-images)
-* [Navigation and routing](/docs/development/ui/navigation)
-* [State management](/docs/development/data-and-backend/state-mgmt/intro)
-* [Animations](/docs/development/ui/animations)
-{% endcomment %}
+- [Using packages](/docs/development/packages-and-plugins/using-packages)
+- [Adding assets and images](/docs/development/ui/assets-and-images)
+- [Navigation and routing](/docs/development/ui/navigation)
+- [State management](/docs/development/data-and-backend/state-mgmt/intro)
+- [Animations](/docs/development/ui/animations)
+  {% endcomment %}

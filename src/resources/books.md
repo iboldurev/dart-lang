@@ -1,5 +1,5 @@
 ---
-title: Books about Dart
+title: Книги о Dart
 description: Read all about it! Here's a collection of books about Dart.
 ---
 

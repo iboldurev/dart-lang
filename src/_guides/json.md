@@ -1,5 +1,5 @@
 ---
-title: Using JSON
+title: Использование JSON
 description: Dart solutions for reading and writing JSON.
 ---
 
@@ -38,7 +38,7 @@ The following libraries and packages are useful across Dart platforms:
 
 [AngularDart Tutorial, part 6: HTTP]({{site.angulardart}}/tutorial/toh-pt6)
 : Illustrates how a Dart web app can interact with a
-  RESTful backend using JSON data.
+  RESTful backend использование JSON data.
 
 [Using HTTP resources with HttpRequest](/guides/libraries/library-tour#using-http-resources-with-httprequest)
 : Demonstrates how to use HttpRequest to exchange data with a web server.

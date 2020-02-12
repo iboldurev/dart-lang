@@ -1,10 +1,10 @@
 # Site settings
 title: Dart
-description: Dart is a platform for building structured apps. It includes a language, a VM, libraries, tools, and compilers to many targets, including JavaScript.
-url: https://dart.dev
-dev-url: https://dartlang-org-dev.firebaseapp.com
+description: Dart это платформа для построения структурированных приложений. Он включает в себя язык, виртуальную машину (VM), библиотеки, инструменты и компиляторы для многих целей, включая JavaScript.
+url: https://dart-lang.ru
+dev-url: http://dart-lang-stage.firebaseapp.com
 repo:
-  this: https://github.com/dart-lang/site-www
+  this: https://github.com/iboldurev/dart-lang
   shared: &repo-shared https://github.com/dart-lang/site-shared
 branch: master
 port: 4000
@@ -13,11 +13,11 @@ port: 4000
 # use case:
 #   {{site.flutter}}/docs
 
-www: https://dart.dev
+www: https://dart-lang.ru
 prev-url: https://v1-dartlang-org.firebaseapp.com
 angulardart: https://angulardart.dev
-dart_vm:  /server
-flutter:  https://flutter.dev
+dart_vm: /server
+flutter: https://flutter.dev
 dart_api: https://api.dart.dev
 flutter_api: https://api.flutter.dev
 pub: https://pub.dev
@@ -31,7 +31,7 @@ dartpad-embed-inline: https://dartpad.dev/embed-inline.html
 news: https://news.dartlang.org
 group: https://groups.google.com/a/dartlang.org
 
-show_banner: true
+show_banner: false
 
 collections:
   articles:
@@ -45,17 +45,17 @@ collections:
     permalink: /guides/:path
 
 defaults:
-- scope:
-    path: ''
-    # type: pages
-  values:
-    layout: default
-    toc: true
-- scope:
-    path: ''
-    type: tutorials
-  values:
-    layout: tutorial
+  - scope:
+      path: ""
+      # type: pages
+    values:
+      layout: default
+      toc: true
+  - scope:
+      path: ""
+      type: tutorials
+    values:
+      layout: tutorial
 
 custom:
   downloads:
@@ -110,13 +110,13 @@ os-list: [Windows, macOS, Linux]
 alert:
   important: >-
     <aside class="alert alert-warning" role="alert" markdown="1">
-    <i class="fas fa-exclamation-circle"></i> **Important:**
+    <i class="fas fa-exclamation-circle"></i> **Важно:**
   info: >-
     <aside class="alert alert-info" role="alert" markdown="1">
     <i class="fas fa-info-circle"></i>
   note: >-
     <aside class="alert alert-info" role="alert" markdown="1">
-    <i class="fas fa-info-circle"></i> **Note:**
+    <i class="fas fa-info-circle"></i> **Заметка:**
   version-note: >-
     <aside class="alert alert-info" role="alert" markdown="1">
     <i class="fas fa-code-branch"></i> **Version note:**
@@ -130,5 +130,5 @@ alert:
     <i class="fas fa-exclamation-triangle"></i>
   warning: >-
     <aside class="alert alert-warning" role="alert" markdown="1">
-    <i class="fas fa-exclamation-triangle"></i> **Warning:**
+    <i class="fas fa-exclamation-triangle"></i> **Внимание:**
   end: </aside>

@@ -1,16 +1,16 @@
 ---
 permalink: /community
-title: Community and support
-description: Communities, mailing lists, and bug databases for the Dart project.
+title: Сообщество и поддержка
+description: Сообщества, списки рассылки и базы данных ошибок для проекта Dart.
 ---
 
-Track the Dart project, get help, and talk with other Dart developers.
+Следите за проектом Dart, получайте помощь и разговаривайте с другими разработчиками Dart.
 
-We pledge to maintain an open and welcoming environment.
-For details, see our [code of conduct](/code-of-conduct).
+Мы обязуемся поддерживать открытую и гостеприимную обстановку.
+Подробности смотрите в нашем [правила поведения](/code-of-conduct).
 
 
-## Stay informed
+## В курсе
 
 * [Dart announce]({{site.group}}/d/forum/announce) -
   Low traffic announcements of new releases, breaking changes,
@@ -18,11 +18,11 @@ For details, see our [code of conduct](/code-of-conduct).
 * [@dart_lang](https://twitter.com/dart_lang) -
   The official Twitter account.
 
-## Join the conversation
+## Присоединиться к разговору
 
 Get answers and connect with Dart developers.
 
-#### Communities
+#### Сообщества
 
 * [StackOverflow](https://stackoverflow.com/tags/dart) -
   The best place for how-to questions.
@@ -35,10 +35,10 @@ Get answers and connect with Dart developers.
 * [General discussions]({{site.group}}/d/forum/misc)
 * [Dart analyzer]({{site.group}}/d/forum/analyzer-discuss)
 
-## Contribute
+## Сделать вклад
 
-Dart is open source. Learn how to
-[contribute to the core SDK.](https://github.com/dart-lang/sdk/blob/master/CONTRIBUTING.md)
+Dart с открытым исходным кодом. Узнайте, как
+[внести свой вклад в core SDK.](https://github.com/dart-lang/sdk/blob/master/CONTRIBUTING.md)
 
 * [Dart GitHub repositories](https://github.com/dart-lang/)
   * [Core SDK](https://github.com/dart-lang/sdk/)
@@ -48,7 +48,7 @@ Dart is open source. Learn how to
 * [Dart reviews]({{site.group}}/d/forum/reviews) -
   High-traffic list of all core SDK code reviews.
 
-## Additional community resources
+## Дополнительные ресурсы сообщества
 
 Our wonderful community has provided these resources.
 
@@ -56,5 +56,5 @@ Our wonderful community has provided these resources.
   and articles written by the Dart community
 * [Chinese version of this site (此网站的中文版)](https://www.dartdoc.cn)
 
-Also see the [Flutter community page.]({{site.flutter}}/community)
+Также см [Flutter community page.]({{site.flutter}}/community)
 

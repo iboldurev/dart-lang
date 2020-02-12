@@ -14,7 +14,7 @@ This command publishes your package on the
 [pub.dev site]({{site.pub}}) for anyone to download and depend
 on. For information on how to prepare your package for publishing,
 and what files you should include or exclude,
-see [Publishing packages](/tools/pub/publishing).
+see [Публикация пакетов](/tools/pub/publishing).
 
 ## Options
 
