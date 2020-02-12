@@ -1,5 +1,5 @@
 ---
-title: Language samples
+title: Примеры языка Dart
 description: Examples of idiomatic Dart with links to larger examples.
 ---
 
@@ -27,21 +27,19 @@ or the [Dart cheatsheet codelab](/codelabs/dart-cheatsheet).
   </div>
 </div>
 
+## Привет Dart
 
-## Hello World
-
-Every app has a `main()` function.
-To display text on the console, you can use the top-level `print()` function:
+Каждое приложение имеет `main()` функцию.
+Для отображения текста в консоли Вы можете использовать `print()` функцию:
 
 <?code-excerpt "misc/test/samples_test.dart (hello-world)"?>
 {% prettify dart tag=pre+code %}
 void main() {
-  print('Hello, World!');
+  print('Привет, Dart!');
 }
 {% endprettify %}
 
-
-## Variables
+## Переменные
 
 Even in type-safe Dart code, most variables don't need explicit types,
 thanks to type inference:
@@ -59,7 +57,6 @@ var image = {
 {% endprettify %}
 
 [Read more](/guides/language/language-tour#variables) about variables in Dart, including default values, the `final` and `const` keywords, and static types.
-
 
 ## Control flow statements
 
@@ -89,8 +86,7 @@ while (year < 2016) {
 [Read more](/guides/language/language-tour#control-flow-statements) about control flow statements in Dart,
 including `break` and `continue`, `switch` and `case`, and `assert`.
 
-
-## Functions
+## Комментарии
 
 [We recommend](/guides/language/effective-dart/design#types)
 specifying the types of each function's arguments and return value:
@@ -121,8 +117,7 @@ the top-level `print()` function is an argument to `forEach()`.
 [Read more](/guides/language/language-tour#functions) about functions in Dart,
 including optional parameters, default parameter values, and lexical scope.
 
-
-## Comments
+## Комментарии
 
 Dart comments usually start with `//`.
 
@@ -139,8 +134,7 @@ Dart comments usually start with `//`.
 [Read more](/guides/language/language-tour#comments) about comments in Dart,
 including how the documentation tooling works.
 
-
-## Imports
+## Импорт
 
 To access APIs defined in other libraries, use `import`.
 
@@ -159,8 +153,7 @@ import 'path/to/my_other_file.dart';
 [Read more](/guides/language/language-tour#libraries-and-visibility) about libraries and visibility in Dart,
 including library prefixes, `show` and `hide`, and lazy loading through the `deferred` keyword.
 
-
-## Classes
+## Классы
 
 Here's an example of a class with three properties, two constructors,
 and a method. One of the properties can't be set directly, so it's
@@ -218,8 +211,7 @@ voyager3.describe();
 including initializer lists, optional `new` and `const`, redirecting constructors,
 `factory` constructors, getters, setters, and much more.
 
-
-## Inheritance
+## Наследование
 
 Dart has single inheritance.
 
@@ -234,8 +226,7 @@ class Orbiter extends Spacecraft {
 
 [Read more](/guides/language/language-tour#extending-a-class) about extending classes, the optional `@override` annotation, and more.
 
-
-## Mixins
+## Примеси
 
 Mixins are a way of reusing code in multiple class hierarchies. The following class can act as a mixin:
 
@@ -261,7 +252,6 @@ class PilotedCraft extends Spacecraft [!with!] Piloted {
 `PilotedCraft` now has the `astronauts` field as well as the `describeCrew()` method.
 
 [Read more](/guides/language/language-tour#adding-features-to-a-class-mixins) about mixins.
-
 
 ## Interfaces and abstract classes
 
@@ -294,7 +284,6 @@ You can create an abstract class to be extended (or implemented) by a concrete c
 Any class extending `Describable` has the `describeWithEmphasis()` method, which calls the extender's implementation of `describe()`.
 
 [Read more](/guides/language/language-tour#abstract-classes) about abstract classes and methods.
-
 
 ## Async
 
@@ -362,8 +351,7 @@ Stream<String> report(Spacecraft craft, Iterable<String> objects) async* {
 asynchrony support, including `async` functions, `Future`, `Stream`,
 and the asynchronous loop (`await for`).
 
-
-## Exceptions
+## Исключения
 
 To raise an exception, use `throw`:
 
@@ -396,8 +384,7 @@ Note that the code above is asynchronous;
 [Read more](/guides/language/language-tour#exceptions) about exceptions, including stack traces, `rethrow`, and the difference between
 Error and Exception.
 
-
-## Other topics
+## Другие темы
 
 Many more code samples are in the
 [language tour](/guides/language/language-tour) and the
